@@ -18,12 +18,13 @@ body{
     padding: 20px;
     color: white;
     border-radius: 10px;
-    text-align: center;
+    
     
 }
 
 .deposit{
     background-color: indigo;
+    
 }
 .withdraw{
     background-color: brown;
